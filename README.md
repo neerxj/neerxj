@@ -1,5 +1,5 @@
 # Hello there ... 👋
-I'm a first year Computer Science student at Nottingham Trent University. I am also an instructor for [Code First Girls](https://codefirstgirls.org.uk/).
+**I'm a first year Computer Science student at Nottingham Trent University. I am also an instructor for [Code First Girls](https://codefirstgirls.org.uk/).**
 
 - 🔭 **I’m currently working on a **Banking Project** made using C++**
 - 🌱 **I’m currently studying Computer Science**
