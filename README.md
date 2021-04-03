@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my C++ Project.
 - 🌱 I’m currently studying Computer Science.
-- 💬 Ask me about Programming and Tech.
+- 💬 Ask me about programming and tech.
 - 📫 How to reach me: Linkedin
 
 <!--
